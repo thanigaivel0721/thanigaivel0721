@@ -59,22 +59,3 @@
 
 ---
 
-### 🎨 Custom CSS Animation (Optional)
-Add this custom CSS to a personal GitHub Pages portfolio or other hosting service for interactivity.
-
-```css
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-img:hover {
-  animation: pulse 1.5s infinite;
-}
