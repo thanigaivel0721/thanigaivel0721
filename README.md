@@ -1,28 +1,88 @@
-<h1 align="center">Hi 👋, I'm Thanigaivel J</h1>
-<h3 align="center">🚀 Tech Enthusiast | 🏅 Kalam Young Achiever 2023 | 🎓 B.E - CSE | 🔧 Backend Intern @Cybertech Ninjaaa (Laravel & REST API) | 🌐 Frontend Intern @Manvian (React js,Next js & TailwindCss)</h3>
+<h1 align="center" style="animation: fadeInDown 2s ease-in-out;">Hi 👋, I'm <span style="color:#4caf50;">Thanigaivel J</span></h1>
+<h3 align="center" style="animation: fadeInUp 2s ease-in-out;">
+    🚀 Tech Enthusiast | 🏅 <span style="color:#f39c12;">Kalam Young Achiever 2023</span> | 🎓 B.E - CSE 
+    <br> 🔧 Backend Intern @<span style="color:#3498db;">Cybertech Ninja</span> (Laravel & REST API)
+    <br> 🌐 Frontend Intern @Manvian (React.js, Next.js & Tailwind CSS)
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanigaivel0721&label=Profile%20views&color=0e75b6&style=flat" alt="thanigaivel0721" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanigaivel0721" alt="thanigaivel0721" /></a> </p>
-
-- 🔭 I’m currently working on **Skillmentors**
-
-- 🌱 I’m currently learning **Laravel RestApi**
-
-- 👨‍💻 All of my projects are available at [https://thanigaivel0721.github.io/Portfolio/](https://thanigaivel0721.github.io/Portfolio/)
-
-- 📫 How to reach me **thanigaivel0721@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hmHXJ7U3bAeZQrZEgujIeZBH6EJK9Ce-/view](https://drive.google.com/file/d/1hmHXJ7U3bAeZQrZEgujIeZBH6EJK9Ce-/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thanigaivel-j-b4a7892a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanigaivel-j-b4a7892a9/" height="30" width="40" /></a>
-<a href="https://instagram.com/extrovert_21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extrovert_21_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thanigai_0721" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thanigai_0721" height="30" width="40" /></a>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=thanigaivel0721&label=Profile%20views&color=0e75b6&style=flat" alt="thanigaivel0721" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=thanigaivel0721&theme=radical&margin-w=15&margin-h=15" alt="thanigaivel0721" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanigaivel0721&show_icons=true&locale=en&layout=compact" alt="thanigaivel0721" /></p>
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **[Skillmentors](https://thanigaivel0721.github.io/Portfolio/)**
+- 🌱 I’m currently learning **Laravel REST APIs**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://thanigaivel0721.github.io/Portfolio/)**
+- 📫 Reach me at **[thanigaivel0721@gmail.com](mailto:thanigaivel0721@gmail.com)**
+- 📄 Know about my experiences in my **[Resume](https://drive.google.com/file/d/1hmHXJ7U3bAeZQrZEgujIeZBH6EJK9Ce-/view)**
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+    <a href="https://linkedin.com/in/thanigaivel-j-b4a7892a9" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/extrovert_21_" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
+    </a>
+    <a href="https://www.codechef.com/users/thanigai_0721" target="_blank">
+        <img src="https://img.icons8.com/material-sharp/48/000000/codechef.png" alt="CodeChef" />
+    </a>
+</p>
+
+---
+
+### 💻 Languages and Tools
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thanigaivel0721&show_icons=true&theme=radical" alt="Thanigaivel's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanigaivel0721&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🎨 CSS Animations
+```css
+@keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
